@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/BuscarButton"
+        android:icon="@drawable/ic_buscar"
+        android:title="Buscar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/VerDevices"
+        android:icon="@drawable/ic_ver_dispos_sincronizados"
+        android:title="Ver"
+        app:showAsAction="always" />
+</menu>
